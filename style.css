@@ -52,3 +52,13 @@ footer {
     color: white;
 }
 
+.dark nav,
+.dark section {
+    background: #333;
+    color: white;
+}
+
+.dark nav a {
+    color: white;
+}
+
